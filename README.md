@@ -1,0 +1,1 @@
+Projeto final da matéria algoritmos e programação de computadores 2024.1 na Universidade de Brasília. Consiste em um jogo no terminal, inspirado no jogo NumberSums, ou seja, um jogo de somas baseado em linhas e colunas de uma matriz.
