@@ -34,7 +34,7 @@ To run this project, you need a C/C++ compiler installed on your machine.
 
    - On **Windows**:
    
-     .\game.exe
+     ./game.exe
 
    - On **Linux/macOS**:
    
