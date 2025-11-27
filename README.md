@@ -30,10 +30,7 @@ To run this project, you need a C/C++ compiler installed on your machine.
     ```bash
     g++ game.c -o game
 
-3. **Run the game
-    On Windows: 
+3. **Run the game**
+    **On Windows:** 
     ```bash
     ./game.exe
-    On Linux/Mac:
-    ```bash
-    ./game
