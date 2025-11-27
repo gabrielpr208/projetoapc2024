@@ -31,6 +31,6 @@ To run this project, you need a C/C++ compiler installed on your machine.
     g++ game.c -o game
 
 3. **Run the game**
-    **On Windows:** 
+    On Windows:
     ```bash
     ./game.exe
